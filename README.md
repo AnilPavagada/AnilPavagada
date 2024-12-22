@@ -4,8 +4,24 @@
 - 🌱 I’m currently learning **ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://anilpvgportfolio.netlify.app/](https://anilpvgportfolio.netlify.app/)
+- <h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h2>
 
-- 💬 About Me **const Anil = { education:'BTech ETE @Bangalore Institute of Technology', interest :['Frontend Development ', 'ReactJS and React Native', 'Continuous Learning'], current: 'Learning ReactiveNative & Working on Frontend Projects', tech: { backend: ['Python', 'Django', 'FastAPI', 'Node.js'], frontend: ['React.js', 'HTML, CSS, and JavaScript', 'Tailwind CSS'], Developer Tools: [ 'Eclipse', ' Android Studio',' VS Code ', Figma', 'Postman', 'MATLAB', 'Arduino IDE'], Databases: ['MySQL'], Others: ['Git', 'GitHub', 'Problem Solving'], }, };**
+-  ```js
+   const Anil = { education:'BTech ETE @Bangalore Institute of Technology',
+    interest :['Frontend Development ', 'ReactJS and React Native', 'Continuous Learning'],
+   current: 'Learning ReactiveNative & Working on Frontend Projects',
+   tech: {
+    backend: ['Python', 'Django', 'FastAPI', 'Node.js'],
+    frontend: ['React.js', 'HTML, CSS, and JavaScript', 'Tailwind CSS'],
+    Developer Tools: [ 'Eclipse', ' Android Studio',' VS Code ', Figma', 'Postman', 'MATLAB', 'Arduino IDE'],
+    Databases: ['MySQL'],
+    Others: ['Git', 'GitHub', 'Problem Solving'],
+   },
+   };
+   ```
 
 - 📫 How to reach me **anils.pvg1234@gmail.com**
 
