@@ -19,7 +19,7 @@
    tech: {
     backend: ['Python', 'Django', 'FastAPI', 'Node.js'],
     frontend: ['React.js', 'HTML, CSS, and JavaScript', 'Tailwind CSS'],
-    Developer Tools: [ 'Eclipse', ' Android Studio',' VS Code ', Figma', 'Postman', 'MATLAB', 'Arduino IDE'],
+    DeveloperTools: [ 'Eclipse', ' Android Studio',' VS Code ', 'Figma', 'Postman', 'MATLAB', 'Arduino IDE'],
     Databases: ['MySQL'],
     Others: ['Git', 'GitHub', 'Problem Solving'],
    },
