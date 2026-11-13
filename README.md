@@ -32,7 +32,7 @@
 - ⚛️ Exploring React.js and modern frontend technologies.
 - 🐳 Interested in Docker, AWS and cloud technologies.
 - 💡 Passionate about problem-solving and learning new technologies.
-- 📫 Reach me at: **anils.pvg1234@gmail.com**
+- 📫 Reach me at: **anil.pvg2sa@gmail.com**
 
 ---
 
