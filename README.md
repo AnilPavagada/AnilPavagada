@@ -1,59 +1,191 @@
-<h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">I'm AnilKumar S</h1>
-<h3 align="left">"Frontend Developer | React Enthusiast | Lifelong Learner 💻"</h3>
-<br/>
-<br/>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-- 🌱 I’m currently learning **ReactNative**
+<h1 align="center">
+  Hi 👋, I'm Anil Kumar S
+</h1>
 
-- 👨‍💻 All of my projects are available at [https://anilpvgportfolio.netlify.app/](https://anilpvgportfolio.netlify.app/)
-- <h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
-  About Me 
-</h2>
+<h3 align="center">
+  Java Full Stack Developer | Java | Spring Boot | Microservices | React.js
+</h3>
 
--  ```js
-   const Anil = { education:'BTech ETE @Bangalore Institute of Technology',
-    interest :['Frontend Development ', 'ReactJS and React Native', 'Continuous Learning'],
-   current: 'Learning ReactiveNative & Working on Frontend Projects',
-   tech: {
-    backend: ['Python', 'Django', 'FastAPI', 'Node.js'],
-    frontend: ['React.js', 'HTML, CSS, and JavaScript', 'Tailwind CSS'],
-    DeveloperTools: [ 'Eclipse', ' Android Studio',' VS Code ', 'Figma', 'Postman', 'MATLAB', 'Arduino IDE'],
-    Databases: ['MySQL'],
-    Others: ['Git', 'GitHub', 'Problem Solving'],
-   },
-   };
-   ```
-
-- 📫 How to reach me **anils.pvg1234@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18TUmfUhk0yHu3L0jRElBTjw2Ip1Y8SHi/view?usp=drive_link](https://drive.google.com/file/d/18TUmfUhk0yHu3L0jRElBTjw2Ip1Y8SHi/view?usp=drive_link)
-
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anilkumars1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilkumars1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anilkumar_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anilkumar_s" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-
-
-<h2 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
-  GitHub Analytics
-</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilpavagada&show_icons=true&locale=en" alt="anilpavagada" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilpavagada&" alt="anilpavagada" width="48%" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilpavagada&show_icons=true&locale=en&layout=compact" alt="anilpavagada" /></p>
+<p align="center">
+  Passionate Software Developer focused on building scalable backend
+  applications, REST APIs, and responsive web applications.
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+       alt="Coding GIF" width="400">
+</p>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+---
+
+## 👨‍💻 About Me
+
+- 💼 Working as a Java Backend Developer.
+- ☕ Experienced in Java, Spring Boot and Microservices.
+- 🔭 Interested in developing scalable and secure applications.
+- 🌱 Currently improving my Java Full Stack development skills.
+- ⚛️ Exploring React.js and modern frontend technologies.
+- 🐳 Interested in Docker, AWS and cloud technologies.
+- 💡 Passionate about problem-solving and learning new technologies.
+- 📫 Reach me at: **anils.pvg1234@gmail.com**
+
+---
+
+## 🎓 Education
+
+- 🎓 B.E. in Electronics & Telecommunication Engineering
+- 🏛️ Bangalore Institute of Technology (2020–2024)
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs" />
+</p>
+
+- Java 8+
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JDBC
+- Microservices Architecture
+- RESTful APIs
+- JWT Authentication & Authorization
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Redux (Basics)
+- Bootstrap
+- Tailwind CSS
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQL Query Optimization
+
+### DevOps & Cloud Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkins,git,github" />
+</p>
+
+- Docker
+- AWS
+- Azure
+- Jenkins
+- Git & GitHub
+- CI/CD Fundamentals
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,postman" />
+</p>
+
+- IntelliJ IDEA
+- Eclipse / STS
+- VS Code
+- Postman
+- Maven
+
+---
+
+## 🚀 Projects
+
+### 1. CloudShare
+- Developed a file-sharing application.
+- Implemented backend services and REST APIs.
+- Worked with Java backend technologies.
+
+### 2. TaskFlow
+- Developed a task management application.
+- Implemented application features and backend logic.
+
+### 3. Doctor Appointment Booking
+- Developed an application for managing doctor appointments.
+- Worked on application functionality and database integration.
+
+### 4. Mr Footwear
+- Collaborated with a team to develop an e-commerce application.
+- Worked on application development and team coordination.
+
+---
+
+## 💼 Professional Experience
+
+**Java Backend Developer**
+
+- Developed RESTful APIs using Java and Spring Boot.
+- Worked on microservices-based application architecture.
+- Implemented authentication and authorization using Spring Security and JWT.
+- Integrated MySQL, PostgreSQL and MongoDB.
+- Used Hibernate and JDBC for database operations.
+- Worked with Docker for containerization.
+- Followed Agile development practices.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anilkumars1234" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://github.com/AnilPavagada" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  <a href="https://leetcode.com/ANILKUMAR_S" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+  </a>
+</p>
+
+🌐 **Portfolio:** https://anilpvgportfolio.netlify.app/
+
+📧 **Email:** anils.pvg1234@gmail.com
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnilPavagada&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilPavagada&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilPavagada&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  💻 Keep Learning | Keep Building | Keep Growing 🚀
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
